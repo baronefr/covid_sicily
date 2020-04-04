@@ -1,4 +1,4 @@
-# covid_sicily
+# Covid-19 Sicily data plotter
 A personal project about SARS-COVID-19 in Sicily
 
 ## Descrizione
